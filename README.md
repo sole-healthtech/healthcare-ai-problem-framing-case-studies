@@ -1,5 +1,12 @@
 # Case Studies in Problem Framing for Healthcare AI
 
+> **Notice:** This repository is for educational and architectural demonstration 
+> purposes only. The logic and data models contained herein are not intended for 
+> use in clinical decision-making, patient care, or production-level healthcare 
+> environments. They have not been validated for safety, compliance, or regulatory 
+> requirements. For inquiries regarding clinical AI governance, model validation, 
+> or safety architectural audits, please contact the author.
+
 ## Overview
 This repository contains a set of abstracted case studies examining problem framing in healthcare AI. The focus is not on model performance or implementation details, but on whether a problem is appropriate to model in the first place, given clinical workflows, authority boundaries, and potential risk.
 
