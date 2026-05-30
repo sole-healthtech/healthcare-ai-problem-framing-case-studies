@@ -181,3 +181,11 @@ Effective healthcare AI systems must earn the trust of healthcare workers throug
 The most successful applications reduce redundant or unnecessary work and support patient-centered care. Tools that increase workload, obscure responsibility, or conflict with clinical reasoning are likely to be ignored or worked around in practice.
 
 Safe and durable healthcare AI requires an iterative design process with continuous feedback from domain experts who understand clinical workflows, risk, and accountability. Without this translation layer between technical teams and clinical reality, even well-intentioned systems are likely to fail at deployment rather than in development.
+
+## Work with me
+
+I audit clinical AI systems for the failure modes that technical testing cannot catch — behavioral drift, displaced safety nets, and accountability gaps that surface after go-live.
+
+If you're building or deploying AI in a clinical setting and want a bedside perspective before it reaches frontline care, book a discovery call.
+
+[Book a Clinical AI Discovery Call →](https://calendly.com/sole-clinicalai/30min)
